@@ -1,5 +1,5 @@
-# Partnerglide - chat bot
-It is repository for chat bot: [@Partnerglide](https://t.me/Partnerglide)
+# Partnerglide_bot - chat bot
+It is repository for chat bot: [@Partnerglide_bot](https://t.me/Partnerglide_bot)
 
 ## What it is?
 This repository can be imported to [Bots.Business](https://bots.business) as a worked chat bot.
